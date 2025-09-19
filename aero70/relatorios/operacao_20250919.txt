@@ -1,0 +1,10 @@
+--- RELATÓRIO DE OPERAÇÃO DA TORRE ---
+Data de Geração: 2025-09-19 10:58:18
+
+--- SUMÁRIO DE AUTORIZAÇÕES ---
+Total de Operações Autorizadas: 6
+Total de Operações Negadas: 5
+
+--- MOTIVOS DE RECUSA ---
+- Outro: 4 vez(es)
+- Licença de Piloto Vencida: 1 vez(es)

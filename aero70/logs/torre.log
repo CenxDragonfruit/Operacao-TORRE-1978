@@ -1,0 +1,19 @@
+[2025-09-19 10:54:44] SUCESSO: Todos os arquivos de dados necessários foram encontrados.
+[2025-09-19 10:55:05] FALHA AO ENFILEIRAR: Voo PT_ABC não encontrado nos planos de voo.
+[2025-09-19 10:55:11] SUCESSO: Voo PT-ABC adicionado à fila de decolagem.
+[2025-09-19 10:55:35] AUTORIZADO: DECOLAGEM do voo PT-ABC na pista 10/28.
+[2025-09-19 10:55:59] SUCESSO: Voo PT-ABC adicionado à fila de pouso.
+[2025-09-19 10:56:36] AUTORIZADO: POUSO do voo PT-ABC na pista 10/28.
+[2025-09-19 10:57:11] SUCESSO: Voo FAB001 adicionado à fila de decolagem.
+[2025-09-19 10:57:18] SUCESSO: Voo AZU456 adicionado à fila de decolagem.
+[2025-09-19 10:57:26] SUCESSO: Voo GLO123 adicionado à fila de pouso.
+[2025-09-19 10:57:31] FALHA AO ENFILEIRAR: Nenhum piloto habilitado para a aeronave A320 (Voo TAM345) encontrado.
+[2025-09-19 10:57:36] FALHA AO ENFILEIRAR: Licença do piloto para a aeronave EMB-110 (Voo ALT901) está VENCIDA (1978-12-15).
+[2025-09-19 10:57:41] SUCESSO: Voo ALT123 adicionado à fila de pouso.
+[2025-09-19 10:57:53] AUTORIZADO: POUSO do voo GLO123 na pista 10/28.
+[2025-09-19 10:57:54] AUTORIZADO: POUSO do voo ALT123 na pista 10/28.
+[2025-09-19 10:57:55] NEGADO: Não há voos na fila de pouso para autorizar.
+[2025-09-19 10:58:03] AUTORIZADO: DECOLAGEM do voo FAB001 na pista 10/28.
+[2025-09-19 10:58:04] AUTORIZADO: DECOLAGEM do voo AZU456 na pista 10/28.
+[2025-09-19 10:58:04] NEGADO: Não há voos na fila de decolagem para autorizar.
+[2025-09-19 10:58:18] SUCESSO: Relatório gerado em 'relatorios/operacao_20250919.txt'
